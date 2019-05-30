@@ -1,0 +1,11 @@
+h2.headertext {
+  text-align: center;
+}
+
+.slider_style {
+    padding-left: 100px; padding-right: 100px; padding-top: 50px;
+}
+
+.svg_container {
+    height: 400px; padding-top:50px;
+}
